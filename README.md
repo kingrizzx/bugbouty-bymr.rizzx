@@ -1,2 +1,2 @@
 # bugbouty-bymr.rizzx
-Fitur lumayam
+Fitur lumayan
