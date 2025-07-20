@@ -1,4 +1,4 @@
-# bugbouty-bymr.rizzx
+o# bugbouty-bymr.rizzx
 Fitur lumayan
 ASSALAMUALAIKUM / SALOM / SALAM SEJATERA SAYA MR.RIZZX
 
@@ -87,4 +87,18 @@ Vuln scan (nuclei)
 
 
 ---
+
+
+ATAU
+
+git clone https://github.com/kingrizzx/bugbouty-olehmr.rizzx.git
+
+cd bugbouty-olehmr.rizzx
+
+chmod +x KINGRIZZX-BUGBOUNTY.sh
+
+./KINGRIZZX-BUGBOUNTY.sh
+
+pkg install git golang python curl
+
 
