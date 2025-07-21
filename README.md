@@ -70,7 +70,7 @@ nuclei -update-templates
 
 Jalankan:
 
-git clone https://github.com/YOURUSERNAME/KINGRIZZX-BUGBOUNTY.git
+git clone https://github.com/kingrizzx/bugbouty-bymr.rizzx
 cd KINGRIZZX-BUGBOUNTY
 chmod +x KINGRIZZX-BUGBOUNTY.sh
 ./KINGRIZZX-BUGBOUNTY.sh
